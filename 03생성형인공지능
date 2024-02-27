@@ -15,8 +15,27 @@ https://playground.tensorflow.org/
 * 트랜스포머(Transformer)
 https://wikidocs.net/31379
 
+* ViT
+https://gaussian37.github.io/dl-concept-vit/
+
+* BERT 모델 장점과 Fine-Tuning 흐름이 정리된 글
+https://m.blog.naver.com/antler07/222066071573
+
 * BERT
 https://m.blog.naver.com/antler07/222066071573
  
 * Transformers can do both images and text. Here is why.
 https://youtu.be/aH7s6qXEUcc?si=QAwDovHMsctPhuNo
+
+* GAN 개념과 종류, 그리고 주요 논문에 대한 짧은 리뷰 글
+https://ysbsb.github.io/gan/2020/06/17/GAN-newbie-guide.html
+
+* StyleGAN : "A Style-Based Generator Architecture for Generative Adversarial Networks" 논문 리뷰
+https://blog.promedius.ai/stylegan_1/
+
+* DALL-E : Zero-Shot Text-to-Image Generation 논문 리뷰
+https://littlefoxdiary.tistory.com/74
+
+* Scalable Diffusion Models with Transformers 논문 리뷰
+https://ostin.tistory.com/137
+
