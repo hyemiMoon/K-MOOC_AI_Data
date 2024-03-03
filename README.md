@@ -17,4 +17,5 @@
 * 컴퓨터 개론 일반
 * GPS, IoT, Cloud Computing, Block Chain, AI, Deep Learning 개념 정리
 
-
+## 5. 사물인터넷 기초
+* 
