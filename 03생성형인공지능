@@ -30,12 +30,15 @@ https://youtu.be/aH7s6qXEUcc?si=QAwDovHMsctPhuNo
 * GAN 개념과 종류, 그리고 주요 논문에 대한 짧은 리뷰 글
 https://ysbsb.github.io/gan/2020/06/17/GAN-newbie-guide.html
 
-* StyleGAN : "A Style-Based Generator Architecture for Generative Adversarial Networks" 논문 리뷰
+* 이미 생성 StyleGAN : "A Style-Based Generator Architecture for Generative Adversarial Networks" 논문 리뷰
 https://blog.promedius.ai/stylegan_1/
 
-* DALL-E : Zero-Shot Text-to-Image Generation 논문 리뷰
+* 언어명령을 통한 영상 생성 DALL-E : Zero-Shot Text-to-Image Generation 논문 리뷰
 https://littlefoxdiary.tistory.com/74
 
-* Scalable Diffusion Models with Transformers 논문 리뷰
+* 분산기반 영상 생성 Scalable Diffusion Models with Transformers 논문 리뷰
 https://ostin.tistory.com/137
 
+* 행동 생성 
+Franka Kitchen https://robotics.farama.org/envs/franka_kitchen/franka_kitchen/
+자율주행 행동생성 https://carla.org/ 
