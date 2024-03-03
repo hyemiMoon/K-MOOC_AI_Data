@@ -17,6 +17,4 @@
 * 컴퓨터 개론 일반
 * GPS, IoT, Cloud Computing, Block Chain, AI, Deep Learning 개념 정리
 
-## 5.보건의료 데이터 활용 이해
-* 보건의료 데이터 안전하게 활용하기
-* 보건의료 마이크로 데이터 
+
