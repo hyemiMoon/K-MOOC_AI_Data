@@ -10,3 +10,30 @@ IIoT Industry IoT
 * 어떤 서비스를 만들어 낼 것인가
 
 * 클라우드 컴퓨팅, * 엣지/포그 컴퓨팅 
+
+* 데이터 전송 /처리
+- bit(데이터 표현단위), byte((정보 저장, 표현 단위)
+- bps, BPS, PPS
+- ADC, DAC, CODEC (encoder, decoder)
+- Smapling (나이퀴스트-새논 이론) -> Quantization -> Coding
+
+* IoT를 위한 Protocol (표준없습?)
+- matter : open smarthome connectivity stadard
+- 제조사별 지원?
+- Ultra-Wideband 고주파 단거리 무선 통신 프로토콜 (애플 에어태그, 삼성 스마트태그, 자동차 디지털키)
+- 구글 네스트허브 2세대 (솔리 레이더 센서)
+
+* 스마트홈 사례
+- 아마존 가정용 AI 로봇 https://youtu.be/JNnuTszKgwQ?si=Uk-GPiPI8HNy2qQ-
+- Car to Home 서비스 (KT 현대기아)
+- On-Device AI (엣지컴퓨팅이나 지능형 사물인터넷 기술에 역할 기대)
+
+* 스마트 헬스케어
+- 건강 관리 및 질병 예방, 개인 맞춤형
+- 아마존 : 약 배달서비스, 가상 진료
+- 애플 : 사용자 건강 기록, 데이터 활용한 서비스 개발 중 
+- 구글 Fitbit 인수하여 빅데이터, 인공지능 접목 서비스 개발 중 
+- 마이크로소프트 : Azure, 미래 의료 클라우드 서비스 선점 준비 중
+- 국내 스마트  미국 과학자들과 공동 연구 개발. 대소변 DNA 분석, 질병 가능성 감지 
+*IoMT medical
+- 생체 측정 기기의 소형화 경량화, 데이터 전송/분석, 실시간 모니터링 
