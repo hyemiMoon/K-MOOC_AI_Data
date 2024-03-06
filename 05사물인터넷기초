@@ -43,3 +43,7 @@ IIoT Industry IoT
 - 자동차 전장 국제 표준 소프트웨어 플랫폼 : 오토사 Autosar AUTomaotive Open System Architecture 
   (개발의 편의성, 재사용성, 모듈화, 제조사와 모듈 제조사의 협력)
 
+* 컴퓨터 protocol
+- TCP/IP
+- IEEE 802, IEEE802.3(LAN card), IEEE802.11(Wi-Fi)
+
