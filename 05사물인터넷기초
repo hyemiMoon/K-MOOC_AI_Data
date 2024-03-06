@@ -44,6 +44,13 @@ IIoT Industry IoT
   (개발의 편의성, 재사용성, 모듈화, 제조사와 모듈 제조사의 협력)
 
 * 컴퓨터 protocol
-- TCP/IP
+- TCP/IP, HTTP(GET, POST), SMTP/POP3,IMAP 
 - IEEE 802, IEEE802.3(LAN card), IEEE802.11(Wi-Fi)
+- OTT Over the top(settop) : 인터넷 기반 멀티미디어 서비스, 브라우저로 시청 가능, Streaming
+--> HTTP기반 프로토콜, HLS(HTTP live Streaming) 주문형, 라이브 스트리밍, H.264, H.265 인코딩(MP4파일 포맷), 애플 개발
+--> MPEG-DASH Dynamic Adaptive Streaming over HTTP), HLS와 유사, MPEG-Moving Picture Experts Group, 애플 지원 안함.  
+- Wi-Fi : 802.11(11a, 11b, 11g, 11n, 11ac, 11ax)
+--> DHCP, 내부IP(사설IP), 무선공유기(NAT Network Address Translation
+--> 무선설정/보안 인증방식 : WPA2-PSK(WiFi Protected Access ver2 Pre-shared Key), 암호화방식 : AES(Advanced Encryption Standard)
+- 인터넷 연결정보 : 외부IP, 서브넷마스크, 기본게이트웨이, MAC주소 
 
