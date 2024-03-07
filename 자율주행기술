@@ -1,0 +1,48 @@
+## 자율주행을 위한 인공지능 
+
+* 카메라
+- 사람의 눈과 같이 객체를 특징feature 형태로 인식
+- 거리나 속도 인식 성능이 떨어짐, 조명 등의 외부 환경에 민감함
+
+* 레이다
+- 전파의 왕복시간 기반의 거리 측정값이 정확하고 환경 변화에 강인함
+- 도플러 주파수를 이용해 속도 정보 획득이 가능
+- 수신 안테나 개수에 따른 각도 탐지 성능이 낮아 객체가 점으로 인식 됨
+- 높이 인식이 안됨. 주로 2D
+- 단거리, 중거리 레이더 : 주행중 가까이 있는 다른 차 감지, Blind Spot Detection
+- 장거리 레이더 : 장거리 크루즈 주행에서 거리 유지, Adaptive Cruise Control
+
+* 라이다
+- Laser의 왕복시간 기반의 거리 측정값이 매우 정확.
+- 속도 인식 성능 떨어짐, 비나 안개(수분입자)의 영향을 받음.
+
+* 캘리브레이션
+
+* 2D Object Detection
+- Fast R-CNN, Mask R-CNN(ICCV 2017), YOLO, EfficientDet(CVPR 2020) 계산량이 적으면서 정확도가 높아지는 모델 연구 
+
+* 3D Detection
+- 3차원 정보를 입력받아 그 정보를 분석하여 출력, 포인트 클라우드를 입력받아 어떤 오브젝트인지 방향 부피 등 분석, 객체 예측 
+- F-PointNet(CVPR 2018), CenterPoint(CVPR 2021)
+-- Birds_Eye View Feature 주차시 주변 보여주는 화면 
+
+* Segmentation
+- 객체 분류, 박싱 보다는 객체의 전체 모습 위치 검출 
+- FCN (CVPR 2015), U-Net(MICCAI 2015), DeepLab v2(TPAMI 2017, CCNet(ICCV 2019),Segmentation Transformer(ECCV 2020)
+
+* Depth Estimation
+
+* Simultaneous Localization And Mapping (SLAM) 내 위치 추정 
+
+* Domain Adaptation & Knowledge Distillation
+- 다양한 학습 기법
+- 한 도메인의 정보를 다른 도메인에 적용, 
+- 성능은 좋은나 큰 네트워크의 도움을 받아 성능은 떨어지나 작은 네트워크를 가르쳐 성능을 올림. 적은 컴퓨팅 파워로 인공지능을 하기 위해. 
+
+*  Frontier in AI - Tesla 사례
+- 초기에는 카메라, 레이더를 사용했으나, 카메라 비전 기반으로만 변화
+- HydraNets : Multi-task Learing, 태스크끼리 공유되는 특징 공유 몸통
+- Video Neural Net Network, Spatial RNN 
+- 날씨의 영향을 받는 카메라의 한계를 충분한 데이터를 확보하여 학습함. (사실적 가상 데이터도 활용,도메인 어댑션), 점차 레이더 제거
+- 차량에서 실시간 딥러닝이 가능하도록 자체 개발 컴퓨터 프로세싱. 
+
