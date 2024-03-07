@@ -11,11 +11,14 @@
 ## 3. 생성형 인공지능 입문
 * chatGPT, 언어처리 신경망, 컨볼루션 신경망, 트랜스포머, 언어모델, GAN, styleGAN, 영상 주석 생성,
 * 언어 영상 생성, 분산 기반 영상 생성, 트랜스포머 기반 행동 생성
-* 03생성형인공지능 https://github.com/hyemiMoon/K-MOOC_data/blob/main/03%EC%83%9D%EC%84%B1%ED%98%95%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5
+https://github.com/hyemiMoon/K-MOOC_data/blob/main/03%EC%83%9D%EC%84%B1%ED%98%95%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5
 
 ## 4. 컴퓨터로 여는 미래사회
 * 컴퓨터 개론 일반
 * GPS, IoT, Cloud Computing, Block Chain, AI, Deep Learning 개념 정리
 
 ## 5. 사물인터넷 기초
-* 
+https://github.com/hyemiMoon/K-MOOC_data/blob/91c29e897c87a5c332e2089048f4fa2ff608cc95/05%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B8%B0%EC%B4%88
+
+## 6. 자율주행을 위한 인공지능
+https://github.com/hyemiMoon/K-MOOC_data/blob/91c29e897c87a5c332e2089048f4fa2ff608cc95/06%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EA%B8%B0%EC%88%A0
