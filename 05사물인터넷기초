@@ -54,3 +54,11 @@ IIoT Industry IoT
 --> 무선설정/보안 인증방식 : WPA2-PSK(WiFi Protected Access ver2 Pre-shared Key), 암호화방식 : AES(Advanced Encryption Standard)
 - 인터넷 연결정보 : 외부IP, 서브넷마스크, 기본게이트웨이, MAC주소 
 
+* H/W 플랫폼
+- 구축비용, 소비전력, 네트워킹, 지원가능한 입출력
+- MCU, MPU
+- Sensor, Actuator
+
+* Arduino
+- micro controller, bootloader, flash memory, I/O
+- Digital/Analog 신호, ADC, PWM
