@@ -28,7 +28,31 @@ Main-memory bottleneck 메모리를 효율적을 사용하는 것이 중요
 - for many frequent-itemsets algorithms, main-memory is the critical resource
 Fingding Frequent Pairs
 - naive algorithm은 메모리 용량을 초과한 사용 위험. 
-- A-Priori algorithm 'pruning'
+- A-Priori algorithm, 'pruning' 가지치기
+
+A-Priori Algorithm 
+- a multi-pass algoritm for mining frequent itemsets im main memory
+- pruning by monotonicity
+- main-memory
+ pass1 : item counts, 
+ pass2 : frequent items, counts of pairs of frequent items(candidate pairs)
+
+PCY Algorithm
+- A-Priori,  hash 
+- main memory
+ pass1 : item counts, hash talble for pairs
+ pass2 : frequent items, bitmap, counts of candidate pairs
+PCY - Multistage Version
+PCY - Multihash
+
+Frequent Itemsets in<2 Passes algorithm : Random sampling, SON
+Random samplig
+- random sample of the market baskets, a-priori
+- error : false positive, false negative
+
+SON
+- divide the data intok chunks, chunks are processed sequentially (not sampling)
+
 
 
 
