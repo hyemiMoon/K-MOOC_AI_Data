@@ -4,4 +4,31 @@
 - Baskets, Items 
 - Frequent Itemsets : sets of items that appear in >= s baskets ( s : minimum support )
 - Support (for itemset I): number of baskets containing all items in I
-- 
+- Confidence of a rule is the probability of j given I
+conf(I->j) = support(I U j) / support(I)
+- interesting Association Rules : high positive or negative interests
+Interest(I -> j) = conf(I -> j) - Pr[j]
+
+A long itemset contains an exponetial number of subitemsets
+- Maximal frequent itemsets : there is no frequent superset
+- Closed frequent itemsets : there is no frequent superset with the same support 
+
+Mining association rules
+1) find all frequent itemsets I
+2) generate rules
+
+Finding frequent itemsets
+Data format
+- assume data te kept in flast files
+Computation model 모든 바스킷을 차례로 읽고 처음부터 끝까지. 데이타 파일에 얼마나 빨리 접근하느냐. 
+- The main cost of mining dis-resident data is usually the number of disk I/)s
+- Many association-rule algorithms read the data in passes - all baskets read in turn 
+- The cost is measured by the number of passes an algorithm makes over the data
+Main-memory bottleneck 메모리를 효율적을 사용하는 것이 중요 
+- for many frequent-itemsets algorithms, main-memory is the critical resource
+Fingding Frequent Pairs
+- naive algorithm은 메모리 용량을 초과한 사용 위험. 
+- A-Priori algorithm 'pruning'
+
+
+
