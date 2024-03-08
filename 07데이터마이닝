@@ -1,0 +1,7 @@
+1. 빈발 아이템 찾기
+* Market-Basket Model
+- Association rules : If-then rules about the contents of baskets
+- Baskets, Items 
+- Frequent Itemsets : sets of items that appear in >= s baskets ( s : minimum support )
+- Support (for itemset I): number of baskets containing all items in I
+- 
