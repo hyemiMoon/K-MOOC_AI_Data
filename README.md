@@ -24,3 +24,4 @@
 
 
 ### 7. 데이터 마이닝
+https://github.com/hyemiMoon/K-MOOC_AI_Data/blob/main/07%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D
