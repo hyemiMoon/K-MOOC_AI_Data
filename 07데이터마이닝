@@ -54,5 +54,10 @@ SON
 - divide the data intok chunks, chunks are processed sequentially (not sampling)
 
 
+2. 링크 분석
+* PageRank Flow Model 
+* Random walk
+* Markov Process Theory 
+* Google's solution : random teleport 
 
 
