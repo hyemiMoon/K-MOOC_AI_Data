@@ -59,5 +59,6 @@ SON
 * Random walk
 * Markov Process Theory 
 * Google's solution : random teleport 
-
+* Topic-specific PageRank (teleport set)
+* term spam
 
