@@ -25,3 +25,8 @@ https://github.com/hyemiMoon/K-MOOC_AI_Data/blob/main/06%EC%9E%90%EC%9C%A8%EC%A3
 
 ### 7. 데이터 마이닝
 https://github.com/hyemiMoon/K-MOOC_AI_Data/blob/main/07%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D
+
+### 8. 비정형 데이터 분석:소셜 네트워크의 이해 및 분석
+
+### 9. 미래 교육의 이해
+
