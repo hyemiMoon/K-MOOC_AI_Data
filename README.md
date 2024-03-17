@@ -30,3 +30,8 @@ https://github.com/hyemiMoon/K-MOOC_AI_Data/blob/main/07%EB%8D%B0%EC%9D%B4%ED%84
 
 ### 9. 미래 교육의 이해
 
+
+### 10. 심리학과 인공지능
+
+
+
