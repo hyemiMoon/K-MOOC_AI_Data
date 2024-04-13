@@ -67,6 +67,13 @@ SON
 * HITS:Hub and Authority Algorithm
 
 
+3. 추천시스템
+* 수많은 정보의 시대에서 적당한 정보를 얻기위한 방법 : 추천
+- offline recommendation : popular item
+- online recommendation : scarce items can be recommended, personalized
+
+
+
 
 
 
