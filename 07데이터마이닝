@@ -71,8 +71,35 @@ SON
 * 수많은 정보의 시대에서 적당한 정보를 얻기위한 방법 : 추천
 - offline recommendation : popular item
 - online recommendation : scarce items can be recommended, personalized
+* Utility Function : u(x,s)->R 
+* Utility Matrix
+* 추천 단계
+- Gater known ratings for maxtix 
+-- Explicit ratings, Implicit ratings(clicks, visits, search keyword, purchases, ...)
+- Predict unkown ratings from the known ratings
+-- content-based, collaborative filtering, Latent factor
+- Evalute predictions
+* 추천 시스템 문제
+- cold-start problem : new users 정보 부족으로 추천 어려움
+- Data sparsity problem 새로운 제품의 초기 데이터 부족으로 추천 어려움
 
+* Content-based recommendations
+- 유사한 아이템 추천 
+- movie recommendations, news recommendations
+- Items Profiles. 
+- TF-IDF for text
+- User Profile
+- 비디오, 오디오, 이미지 어려움. 초기 사용자 프로필 작성 어려움. 인기 아이템 추천이 안될수도.
 
+* Collaborative Filtering CF
+- User-User CF
+- Item-Item CF
+- 장점 work for any items
+- 단점 cold start, sparsity, popularity bias
+
+* Hybrid methods
+- average score, majority vote
+- add content-based method to CF
 
 
 
