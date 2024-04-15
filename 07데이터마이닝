@@ -68,6 +68,7 @@ SON
 
 
 3. 추천시스템
+
 * 수많은 정보의 시대에서 적당한 정보를 얻기위한 방법 : 추천
 - offline recommendation : popular item
 - online recommendation : scarce items can be recommended, personalized
@@ -100,6 +101,11 @@ SON
 * Hybrid methods
 - average score, majority vote
 - add content-based method to CF
+
+* Evaluating Recommender System
+- RMSE Root-Mean-square error 
+- Rank Correlation. Spearman correlation 
+- accuracy 뿐 아니라  다양성도 중요
 
 
 
