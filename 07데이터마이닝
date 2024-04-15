@@ -103,10 +103,19 @@ SON
 - add content-based method to CF
 
 * Evaluating Recommender System
-- RMSE Root-Mean-square error 
+- RMSE Root-Mean-square error 최소화
 - Rank Correlation. Spearman correlation 
 - accuracy 뿐 아니라  다양성도 중요
 
+* CF with Baseline Predictor
+- Weight Learning. minimizing SSE. Gradient descent 
+
+* Latent Factor Model
+- SVD Singular Value Decomposition 
+
+* Two Extension for LF
+- Regularization
+- Modeling biases
 
 
 
