@@ -120,5 +120,6 @@ SON
 * Graph Based Recommendation
 - Friend recommendation in SNS
 - web search, TV program, query suggestion 
-
+- Link Prediction 
+- score(x,y) : similarity
 
