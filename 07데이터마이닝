@@ -121,5 +121,8 @@ SON
 - Friend recommendation in SNS
 - web search, TV program, query suggestion 
 - Link Prediction 
-- score(x,y) : similarity
+- score(x,y) : similarity, graph distance
+- common neighbors, Jaccard's coefficient, preferential attachment(rich get richer)
+
+
 
